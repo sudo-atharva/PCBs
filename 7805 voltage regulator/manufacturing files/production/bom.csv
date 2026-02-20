@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,CP_Radial_D5.0mm_P2.50mm,1,100uF/25v,
+C2,CP_Radial_D5.0mm_P2.50mm,1,10uF/10v,
+D1,LED_D3.0mm_FlatTop,1,LED,
+D2,D_DO-15_P12.70mm_Horizontal,1,D,
+"J1, J2","PhoenixContact_MSTBVA_2,5_2-G-5,08_1x02_P5.08mm_Vertical",2,Conn_01x02_Socket,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,R,
+U1,TO-220-3_Vertical,1,LM7805_TO220,
