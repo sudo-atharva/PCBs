@@ -48,8 +48,7 @@ The schematic includes:
 - Output capacitor (e.g., 0.1µF + 10µF)  
 - Optional input reverse polarity diode  
 
-
-[schematic](images/output.pdf)
+![PCB Layout](images/output.pdf)
 
 
 ---
@@ -63,8 +62,7 @@ Design considerations:
 - Proper ground return path  
 - Provision for heatsink mounting  
 
-
-[PCB](images/layout.png)
+![PCB Layout](images/layout.png)
 
 ---
 
@@ -94,7 +92,7 @@ i haven't done that but here are some 3d model
 - Digital Multimeter  
 - Bench Power Supply  
 - Electronic Load / Resistor Load  
-- datasheet used by texes instruments [datasheet](datasheet/lm7805.pdf)
+- datasheet used by texes instruments ![datasheet](datasheet/LM7805.pdf)
 
 
 ---
