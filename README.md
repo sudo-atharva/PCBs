@@ -16,7 +16,7 @@ This repository documents:
 ## 🔰 Beginner Level PCBs (Foundation Level)
 
 - [x] 7805 Voltage Regulator PCB  
-- [ ] LM317 Adjustable Power Supply PCB  
+- [x] LM317 Adjustable Power Supply PCB  
 - [ ] 12V to 5V Buck Converter (LM2596 based)  
 - [ ] LED Flasher PCB (555 Timer)  
 - [ ] Battery Level Indicator PCB (LM3914)  
