@@ -49,7 +49,7 @@ The schematic includes:
 - Optional input reverse polarity diode  
 
 
-[![SCHEAMTIC](output.pdf)
+[schematic](images/output.pdf)
 
 
 ---
@@ -63,7 +63,8 @@ Design considerations:
 - Proper ground return path  
 - Provision for heatsink mounting  
 
-> [![PCB LAYOUT](layout.png)
+
+[PCB](images/layout.png)
 
 ---
 
@@ -83,7 +84,7 @@ Compatible with:
 ## 🧪 Testing & Validation
 
 i haven't done that but here are some 3d model 
-[![3D MODEL](7805-render.png)
+
 
 ---
 
@@ -93,7 +94,7 @@ i haven't done that but here are some 3d model
 - Digital Multimeter  
 - Bench Power Supply  
 - Electronic Load / Resistor Load  
-- datasheet used by texes instruments [![datashet](LM7805.pDF)
+- datasheet used by texes instruments [datasheet](datasheet/lm7805.pdf)
 
 
 ---
